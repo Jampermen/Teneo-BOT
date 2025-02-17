@@ -14,15 +14,15 @@ An automated WebSocket client for managing multiple Teneo accounts in parallel.
 
 - Node.js (version 14 or higher)
 - npm (Node Package Manager)
-- Teneo browser extension with registration code: `VixZZ`
+- Teneo browser extension with registration code: `KUDV`
 
 ## Installation
 
 1. Clone this repository:
 
 ```bash
-git clone https://codeberg.org/Galkurta/Teneo-BOT.git
-cd Teneo-Bot
+git clone https://github.com/Jampermen/Teneo-BOT.git
+cd Teneo-BOT
 ```
 
 2. Install dependencies:
@@ -36,7 +36,7 @@ npm install
 ### Getting JWT Token
 
 1. Install Teneo browser extension
-2. Register using code: `VixZZ`
+2. Register using code: `KUDV`
 3. Open extension
 4. Right click > Inspect
 5. Click Disconnect then Connect
