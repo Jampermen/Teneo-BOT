@@ -14,10 +14,10 @@ function displayBanner() {
     `${colors.bannerBorder}===============================================${colors.reset}`
   );
   console.log(
-    `${colors.bannerLinks}Codeberg: https://codeberg.org/Galkurta${colors.reset}`
+    `${colors.bannerLinks}Github: https://github.com/Jampermen${colors.reset}`
   );
   console.log(
-    `${colors.bannerLinks}Telegram: https://t.me/galkurtarchive${colors.reset}`
+    `${colors.bannerLinks}Telegram: https://t.me/airdropkerti${colors.reset}`
   );
   console.log(
     `${colors.bannerBorder}===============================================\n${colors.reset}`
